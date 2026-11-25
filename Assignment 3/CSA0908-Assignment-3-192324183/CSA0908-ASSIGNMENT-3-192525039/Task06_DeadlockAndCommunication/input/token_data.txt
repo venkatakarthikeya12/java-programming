@@ -1,0 +1,4 @@
+Buffer capacity: 5
+Total tokens produced: 20
+Number of consumers: 2
+Tokens collected per consumer: 10

@@ -1,0 +1,17 @@
+EXAMINATION SCANNER SYSTEM
+
+--- Extending Thread ---
+Station 1 alive: true
+Station 2 started scanning 8 scripts.
+Station 1 started scanning 5 scripts.
+Station 2 completed scanning 8 scripts.
+Station 1 completed scanning 5 scripts.
+
+--- Implementing Runnable ---
+Station 3 alive: true
+Station 3 started scanning 6 scripts.
+Station 4 started scanning 10 scripts.
+Station 3 completed scanning 6 scripts.
+Station 4 completed scanning 10scripts.
+
+All scanner stations completed.

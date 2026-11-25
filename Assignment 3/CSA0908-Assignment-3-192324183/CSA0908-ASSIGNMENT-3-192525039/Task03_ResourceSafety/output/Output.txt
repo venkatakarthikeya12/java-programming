@@ -1,0 +1,13 @@
+MANUAL CLOSE VERSION
+Reading: store1.txt
+Store 1
+Sales: 15000
+Error: ...
+Open readers after manual version: 1
+
+TRY-WITH-RESOURCES VERSION
+Reading: store1.txt
+Store 1
+Sales: 15000
+Error: ...
+Open readers after try-with-resources: 0

@@ -1,0 +1,21 @@
+CONCURRENT RESULT PROCESSOR
+
+Total files processed: 10000
+
+Thread Pool Size: 1
+Successful files: 9798
+Failed files: 202
+
+Thread Pool Size: 2
+Successful files: 9798
+Failed files: 202
+
+Thread Pool Size: 4
+Successful files: 9798
+Failed files: 202
+
+Thread Pool Size: 8
+Successful files: 9798
+Failed files: 202
+
+Processing completed.

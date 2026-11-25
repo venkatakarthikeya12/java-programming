@@ -1,0 +1,5 @@
+--- Synchronized Method ---
+Seats sold: 10
+
+--- Synchronized Block ---
+Seats sold: 10

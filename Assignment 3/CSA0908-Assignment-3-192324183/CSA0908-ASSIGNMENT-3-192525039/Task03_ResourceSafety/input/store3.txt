@@ -1,0 +1,2 @@
+Store 3
+Sales: 18000

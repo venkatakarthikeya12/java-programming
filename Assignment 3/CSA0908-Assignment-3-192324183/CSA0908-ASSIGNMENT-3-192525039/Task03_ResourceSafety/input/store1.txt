@@ -1,2 +1,0 @@
-Store 1
-Sales: 15000

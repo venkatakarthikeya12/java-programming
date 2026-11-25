@@ -1,0 +1,4 @@
+Station1,5
+Station2,8
+Station3,6
+Station4,10

@@ -1,0 +1,3 @@
+Total seats: 10
+Total users: 100
+Users competing for each seat: 10
